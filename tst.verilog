@@ -1,0 +1,4 @@
+module tst_bench #()
+();
+
+endmodule
