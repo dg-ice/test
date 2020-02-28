@@ -1,4 +1,4 @@
 module tst_bench #()
 ();
-
+//second comment
 endmodule
